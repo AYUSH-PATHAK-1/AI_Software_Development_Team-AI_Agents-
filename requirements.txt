@@ -1,0 +1,10 @@
+langchain
+langgraph
+langsmith
+langchain-ollama
+python-dotenv
+pytest
+fastapi 
+uvicorn 
+pydantic 
+httpx
